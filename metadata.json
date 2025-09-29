@@ -1,0 +1,5 @@
+{
+  "name": "Planet Guardian",
+  "description": "A fast-paced space shooter game where you defend Earth from alien invaders. Control a powerful turret, destroy enemy ships, collect upgrades, and protect the planet from destruction. Built with React and Tailwind CSS.",
+  "requestFramePermissions": []
+}
